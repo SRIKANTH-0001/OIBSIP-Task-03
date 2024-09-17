@@ -1,3 +1,8 @@
+NAME: SRIKANTH K                    
+COMPANY: Oasis Infobyte                  
+DOMAIN: Web Development and Design                      
+DURATION: 4 Weeks                  
+
 
 Temperature Converter Website Project
 
@@ -14,7 +19,7 @@ Features
 3.Multiple Units: Supports conversions between Celsius, Fahrenheit, and Kelvin.
 
 
-Technologies Used
+Technologies Used-
 
 1.HTML: For the basic structure.
 
