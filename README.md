@@ -1,7 +1,5 @@
-#Temperature convertor Website
 
 Temperature Converter Website Project
-
 
 Overview
 
@@ -31,3 +29,4 @@ This project provides a quick and easy way to convert temperatures, making it a 
 
 Sample Pic of the Outcome:
 
+![Temperature Converter - Google Chrome 9_17_2024 4_50_42 PM](https://github.com/user-attachments/assets/007198fa-e177-48d1-be45-d55ec2b20662)
